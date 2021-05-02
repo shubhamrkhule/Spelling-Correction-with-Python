@@ -1,1 +1,2 @@
-# Spelling-Correction-with-Python
+In machine learning, spelling correction and spell checking is a well-known and well-studied problem in natural language processing.Correcting spelling mistakes is an integral part of writing in the modern world, whether it is part of texting a phone, sending an email, writing large documents or searching for information on the web.
+With the use of textblob library in Python, we can easily create Machine Learning Models for the task of Spelling Corrections. Detecting actual word spelling errors is a much more difficult task, as any word in the input text can be an error. 
